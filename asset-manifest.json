@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/pb-portfolio/static/css/main.0e91b717.chunk.css",
-    "main.js": "/pb-portfolio/static/js/main.8a20b379.chunk.js",
-    "main.js.map": "/pb-portfolio/static/js/main.8a20b379.chunk.js.map",
+    "main.css": "/pb-portfolio/static/css/main.09f09ca8.chunk.css",
+    "main.js": "/pb-portfolio/static/js/main.c8d7b93f.chunk.js",
+    "main.js.map": "/pb-portfolio/static/js/main.c8d7b93f.chunk.js.map",
     "runtime-main.js": "/pb-portfolio/static/js/runtime-main.a9199e18.js",
     "runtime-main.js.map": "/pb-portfolio/static/js/runtime-main.a9199e18.js.map",
     "static/js/2.b71da453.chunk.js": "/pb-portfolio/static/js/2.b71da453.chunk.js",
     "static/js/2.b71da453.chunk.js.map": "/pb-portfolio/static/js/2.b71da453.chunk.js.map",
     "index.html": "/pb-portfolio/index.html",
-    "static/css/main.0e91b717.chunk.css.map": "/pb-portfolio/static/css/main.0e91b717.chunk.css.map",
+    "static/css/main.09f09ca8.chunk.css.map": "/pb-portfolio/static/css/main.09f09ca8.chunk.css.map",
     "static/js/2.b71da453.chunk.js.LICENSE.txt": "/pb-portfolio/static/js/2.b71da453.chunk.js.LICENSE.txt",
     "static/media/Pramodize-Logo.267a9531.svg": "/pb-portfolio/static/media/Pramodize-Logo.267a9531.svg",
-    "static/media/hero-cover.2ed4db05.png": "/pb-portfolio/static/media/hero-cover.2ed4db05.png",
+    "static/media/keyboard.db431a27.png": "/pb-portfolio/static/media/keyboard.db431a27.png",
+    "static/media/palette1.31248ed1.png": "/pb-portfolio/static/media/palette1.31248ed1.png",
+    "static/media/plant.b23cec48.png": "/pb-portfolio/static/media/plant.b23cec48.png",
     "static/media/signature-2021-invert.4f043a49.png": "/pb-portfolio/static/media/signature-2021-invert.4f043a49.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a9199e18.js",
     "static/js/2.b71da453.chunk.js",
-    "static/css/main.0e91b717.chunk.css",
-    "static/js/main.8a20b379.chunk.js"
+    "static/css/main.09f09ca8.chunk.css",
+    "static/js/main.c8d7b93f.chunk.js"
   ]
 }
